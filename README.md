@@ -1,27 +1,48 @@
-# Data Scientist / Data Analyst
+# Boubacar Diallo — Data Scientist / Data Analyst en alternance
 
-**Python • SQL • Power BI • Machine Learning • Statistiques**
+**Python • R • SQL • Power BI • Machine Learning • Statistiques**
 
-Je suis actuellement étudiant en **Master 1 Data Science et Modélisation Statistique**, après une **Licence 3 Statistiques**.
+Je suis actuellement étudiant en **Master 1 Data Science et Modélisation Statistique** à l'Université Bretagne Sud, après une **Licence 3 Statistiques**.
 
 Je m'intéresse particulièrement à l'analyse de données, à la modélisation statistique, au Machine Learning et à la Business Intelligence.
 
 Mon objectif est de **transformer des données brutes en analyses compréhensibles, modèles pertinents et indicateurs utiles à la prise de décision**.
 
-**Je recherche une alternance de 2 ans en Data Science / Data Analysis.**
+**Je recherche une alternance en Data Science / Data Analysis pour mon Master 2, à partir de septembre 2027.**
 
 **Localisation :** Vannes  
-**Mobilité :** Nantes et Île-de-France
+**Mobilité :** partout en France
+
+[LinkedIn](https://www.linkedin.com/in/boubacar-diallo-data)
 
 ---
 
 ## Mes projets
 
+### Application R Shiny — Rémunérations RH
+
+> **Comparer les salaires d'une entreprise et tester si les écarts sont significatifs.**
+
+Application web interactive réalisée en binôme avec Ibrahima Fall (cours Applications de visualisation R Shiny, Master 1).
+
+**Pipeline :**
+
+`Fichiers Excel → Nettoyage et jointure → Statistiques descriptives → Tests statistiques → Graphiques interactifs → Application web`
+
+- Nettoyage des données avec le **tidyverse** : doublons, valeurs aberrantes, salariés sans contrat, journal de nettoyage
+- Comparaison des salaires selon l'âge, le sexe, l'état civil et le type de contrat, avec filtres et croisement de deux critères
+- **Tests statistiques** : Wilcoxon / Kruskal-Wallis ou Student / ANOVA de Welch
+- Graphiques **ggplot2** rendus interactifs avec **ggiraph** (infobulles, surlignage, export PNG)
+- Interface **bslib** : thème personnalisé, indicateurs clés, export CSV
+- Code organisé : fonctions métier testables séparées de la logique Shiny
+
+**Technologies :** `R` `Shiny` `tidyverse` `ggplot2` `ggiraph` `bslib`
+
+---
+
 ### Analyse et modélisation prédictive — Python
 
 > **De la donnée brute à un modèle de classification interprétable.**
-
-[Voir le projet →](LIEN_GITHUB_PROJET_PYTHON)
 
 Projet d'analyse et de modélisation prédictive réalisé avec Python.
 
@@ -46,8 +67,6 @@ Projet d'analyse et de modélisation prédictive réalisé avec Python.
 
 > **Transformer des données opérationnelles en indicateurs directement exploitables.**
 
-[Voir le projet →](LIEN_GITHUB_PROJET_POWERBI)
-
 Conception d'un dashboard permettant de suivre l'activité et de faciliter la prise de décision.
 
 **Pipeline :**
@@ -71,6 +90,10 @@ Conception d'un dashboard permettant de suivre l'activité et de faciliter la pr
 
 `Pandas` · `NumPy` · `Matplotlib` · `scikit-learn`
 
+### R
+
+`tidyverse` · `ggplot2` · `Shiny` · `ggiraph` · `bslib`
+
 ### SQL
 
 `Jointures` · `Agrégations` · `Sous-requêtes` · `Extraction analytique`
@@ -81,21 +104,21 @@ Conception d'un dashboard permettant de suivre l'activité et de faciliter la pr
 
 ### Statistiques et modélisation
 
-`Statistiques descriptives` · `Inférence` · `Tests statistiques` · `Régression linéaire` · `Régression logistique` · `Classification`
+`Statistiques descriptives` · `Inférence` · `Tests statistiques` · `Régression linéaire` · `Régression logistique` · `Classification` · `Méthodes de Monte Carlo et MCMC`
 
 ### Outils
 
-`Jupyter Notebook` · `Excel` · `Microsoft 365` · `Git` · `GitHub`
+`Jupyter Notebook` · `RStudio` · `Excel` · `Microsoft 365` · `Git` · `GitHub` · `Visual Paradigm (UML)`
 
 ---
 
 ## Formation
 
-### Master 1 Data Science et Modélisation Statistique
+### Master Data Science et Modélisation Statistique — Université Bretagne Sud
 
-**En cours**
+**Master 1 en cours (2026–2027)**
 
-Formation orientée vers la **Data Science, l'analyse statistique, la modélisation et l'exploitation des données**.
+Formation orientée vers la **Data Science, l'analyse statistique, la modélisation et l'exploitation des données** : méthodes de Monte Carlo et MCMC, programmation et traitement statistique sous R, systèmes d'information et bases de données, visualisation de données (R Shiny).
 
 ### Licence 3 Statistiques — Université Bretagne Sud
 
@@ -123,11 +146,11 @@ Des compétences que j'applique aujourd'hui à la Data : **comprendre un problè
 
 **Formation :** Master 1 Data Science et Modélisation Statistique
 
-**Compétences développées :** statistiques, Machine Learning et modélisation
+**Compétences développées :** statistiques, Machine Learning, modélisation et visualisation de données
 
-**Projets :** Python, SQL et Power BI
+**Projets :** Python, R Shiny, SQL et Power BI
 
-**Objectif :** alternance Data Scientist / Data Analyst pour une durée de 2 ans
+**Objectif :** alternance Data Scientist / Data Analyst pour mon Master 2, à partir de septembre 2027
 
 ---
 
@@ -138,8 +161,9 @@ Je suis intéressé par les opportunités autour de :
 **Data Science • Data Analysis • Machine Learning • Modélisation statistique • Business Intelligence • Power BI • Automatisation**
 
 **Localisation :** Vannes  
-**Mobilité :** Nantes / Île-de-France  
-**E-mail :** boubacat222@gmail.com
+**Mobilité :** partout en France  
+**E-mail :** boubacat222@gmail.com  
+**LinkedIn :** [linkedin.com/in/boubacar-diallo-data](https://www.linkedin.com/in/boubacar-diallo-data)
 
 ---
 
